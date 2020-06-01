@@ -1,0 +1,12 @@
+<idea-plugin>
+    <name>jetbrains-agent</name>
+    <id>io.zhile.crack.jetbrains.agent</id>
+    <version>3.2.0</version>
+    <vendor url="https://zhile.io">zhile.io</vendor>
+    <depends>com.intellij.modules.lang</depends>
+    <application-components>
+        <component>
+            <implementation-class>fuck_the_regulations_v320.ba</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>

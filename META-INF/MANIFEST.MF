@@ -1,0 +1,1376 @@
+Manifest-Version: 1.0
+Protected-Notice: AV contact email - primary@licelus.com
+Sealed: true
+Built-By: neo
+Can-Redefine-Classes: true
+JAR-Signature: p/35Gty/ntyDIBka/JfinG+GkZb+Pno6Gpciq/EVa8O0YgZZ
+Class-Path: javassist-3.21.0-GA.jar
+Protected-By: 9.1.15 Stringer (20190521)
+Main-Class: fuck_the_regulations_v320.bL
+Premain-Class: fuck_the_regulations_v320.dH
+Can-Retransform-Classes: true
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_191
+
+Name: fuck_the_regulations_v320/I.class
+SHA-256-Digest: AoxHt7mPIOvg4vDUxrrqKdwoxuWkmyK5orKwuHxVKvU=
+
+Name: fuck_the_regulations_v320/cs.class
+SHA-256-Digest: jO865PRzbQkTTJB4eq8qJbc+pPaaZxXbLXHBxaAlQQY=
+
+Name: fuck_the_regulations_v320/dT.class
+SHA-256-Digest: Mh3XKblLur3A1EJr74JpD2I5z7a0jyTBcJiltLdDNXQ=
+
+Name: fuck_the_regulations_v320/e5.class
+SHA-256-Digest: 8afZG+wLqUiw5QRosSHTo6rCDr7WQSVvCQL8IftzULc=
+
+Name: fuck_the_regulations_v320/cb.class
+SHA-256-Digest: 3h8zVpK1Zp5cxsa6wa5coTjxPqNWV6N908dhdljWbTw=
+
+Name: fuck_the_regulations_v320/dC.class
+SHA-256-Digest: iUzHcr7NhkVfAYHhYUaHo6vwCf9yyqpmDIx9Zl2IttM=
+
+Name: fuck_the_regulations_v320/bp.class
+SHA-256-Digest: vimgeLpB6Q3bOj2HWkAmriSO94nl2hS4oF/SMWetflE=
+
+Name: fuck_the_regulations_v320/cQ.class
+SHA-256-Digest: h7V0H2fpRSFU//ym7emM8vg7NMSD2DdRsLfUTFJ4tcE=
+
+Name: fuck_the_regulations_v320/d2.class
+SHA-256-Digest: UP8DqGXPBFp0Ksr3Lx69cS4n8EDiIbNwviAOvYbR59Q=
+
+Name: fuck_the_regulations_v320/Z.class
+SHA-256-Digest: bccO44Ap2zdA2H4xM07G653geGL9ryv2QiI8SRNkXTk=
+
+Name: fuck_the_regulations_v320/aF.class
+SHA-256-Digest: TUlbYVUBVac+nLWUAlu0glQQE31Eu5/6zGXYlnuzBbY=
+
+Name: fuck_the_regulations_v320/gb.class
+SHA-256-Digest: kK4O+csm3ATUdvfKEPkbubgwpwfPJbNApZWji8tyC8Q=
+
+Name: fuck_the_regulations_v320/de.class
+SHA-256-Digest: zNAO5Zau7iPUSn/rAtbboujW0rV3hKLuJsJrHCkrR24=
+
+Name: fuck_the_regulations_v320/eF.class
+SHA-256-Digest: RXNhKrJ2o91stddyENTpcgG0rPs029571Ywfw0+7BWc=
+
+Name: fuck_the_regulations_v320/ah.class
+SHA-256-Digest: Zn3EFu0dV7ZJWf9oj9SjNyYj9A4SJid20pO8AO6nORY=
+
+Name: fuck_the_regulations_v320/bI.class
+SHA-256-Digest: kmbApPANNeYVLFItoPrLcPT9o9deL8qEvyWZ8laFDJg=
+
+Name: fuck_the_regulations_v320/f_.class
+SHA-256-Digest: HMXtG7VYsmSSO84bBFuWcKWq9W9G0jXrKD2bHQJcF0s=
+
+Name: fuck_the_regulations_v320/eh.class
+SHA-256-Digest: tDBMhbiC1mGqgVtmgXwPloZr6UdbvF8B1T0LDaLrro0=
+
+Name: fuck_the_regulations_v320/fI.class
+SHA-256-Digest: hnx7zfNe5MKYu4s1C205pp642e1a9EBHrXbOTlms52U=
+
+Name: fuck_the_regulations_v320/b_.class
+SHA-256-Digest: p7QrEOhWqILoYEwEITBwCgd+O/moyN/9hlHQJfQUwOY=
+
+Name: fuck_the_regulations_v320/fp.class
+SHA-256-Digest: FCEmkbjbhTac8vznSwP+y/XH//gF419PnVKsxMkZAmU=
+
+Name: fuck_the_regulations_v320/dv.class
+SHA-256-Digest: ldAR/MfJ2hy/Dkfw4tfShY0LmlFrHn7WUkOixARalOc=
+
+Name: fuck_the_regulations_v320/eW.class
+SHA-256-Digest: eQLgiLRqJlC0g+Ybl+C9LML7naMfZXrm+4YpY5zDVlc=
+
+Name: fuck_the_regulations_v320/f8.class
+SHA-256-Digest: Hpo6C68UxDs5ONITrYekCNFGURAlznYlNC7NtG5tdTM=
+
+Name: fuck_the_regulations_v320/k.class
+SHA-256-Digest: JgN00l8ohkjPQq9r563LQM7KGHlRK0C3bLrj04qZYto=
+
+Name: META-INF/plugin.xml
+SHA-256-Digest: XPN1Q9ZaNHHWK0WAXy+BT0IxZgOVOw+Z0m2zcOfEQqQ=
+
+Name: fuck_the_regulations_v320/aW.class
+SHA-256-Digest: hq4d9K9XaT/Gaa+VzKrFQUUju6mPr/vMTQ3bt815eUc=
+
+Name: fuck_the_regulations_v320/b8.class
+SHA-256-Digest: HZVOXMb6Gv8DhHOY/SeJsKfJgjd+yEWkd4Ylz3s+7cU=
+
+Name: jyt/jvq/pu.class
+SHA-256-Digest: mRnQEkE1ROY+drIJPnhtam/hQO9BnfwUuaSary556s0=
+
+Name: fuck_the_regulations_v320/cn.class
+SHA-256-Digest: kVT+iZQ/fjDbE2BZIBCh8P/e7sGmVcajTEcpjenocQU=
+
+Name: fuck_the_regulations_v320/dO.class
+SHA-256-Digest: Se0fw61rFdSSqTeNyDQxeaNA3UKRNebEjI4Gzav4LvA=
+
+Name: fuck_the_regulations_v320/e0.class
+SHA-256-Digest: GGDfD8q4vQpnMHBLhyo8uArfRd1KEkfhN8qSXUU/Zuo=
+
+Name: fuck_the_regulations_v320/cg.class
+SHA-256-Digest: m2bHr4BptyZiWGk0sXhbCqaIaG4rvMuUMiVftdYaGPQ=
+
+Name: fuck_the_regulations_v320/dH.class
+SHA-256-Digest: lcmBJOT8/FvemyRB3qGRdBTk/JA0hiriaUdQt+cazRk=
+
+Name: fuck_the_regulations_v320/eA.class
+SHA-256-Digest: WEaYxc827O2hD3fPz3EBT9hAxOjk8zF6kdWSD6i8RaE=
+
+Name: fuck_the_regulations_v320/U.class
+SHA-256-Digest: gwzrrrcYx0LmM1gioRqdtv5ZMU8D9abHcjUftY+W7as=
+
+Name: fuck_the_regulations_v320/cx.class
+SHA-256-Digest: v8TXnzCp53v/l4rfVoRWF6IWUQiA9EfKxc88wjdrI+8=
+
+Name: fuck_the_regulations_v320/dY.class
+SHA-256-Digest: EGrKgEE39AjyxhGennuepRSLSFW6G7TucW6OPZkb0hk=
+
+Name: META-INF/important.txt
+SHA-256-Digest: 2EHrx53QQGS6rnk2FHeUqeNo4cc4ceCYt1rMCIkuPXo=
+
+Name: fuck_the_regulations_v320/ec.class
+SHA-256-Digest: fUIsJP/pnXxIwinhveRx9INjVdVVOzDZ3RoEwsCIKMo=
+
+Name: fuck_the_regulations_v320/fD.class
+SHA-256-Digest: eZU35YdscEFKseOkj0WdzNDFgEHk3OkJQzf3T+saCG8=
+
+Name: fuck_the_regulations_v320/aA.class
+SHA-256-Digest: mnA4AkTAB1oFtjQzNAK0f/Urme8unoKtPq9zjYAw5XQ=
+
+Name: fuck_the_regulations_v320/N.class
+SHA-256-Digest: vtSFCqyZTFkn7NYMn4mt5piHi3JUk7xe/2kpVWwTrgo=
+
+Name: fuck_the_regulations_v320/w.class
+SHA-256-Digest: qaVAjPAJxrwEqQaiqDyw0VkcX87DQXYT0c78AaO+xFo=
+
+Name: fuck_the_regulations_v320/fk.class
+SHA-256-Digest: 3GKLELOYsI7BYm8h4q6elZ648CPLZk+x5pSnoajdgAQ=
+
+Name: fuck_the_regulations_v320/p.class
+SHA-256-Digest: OvoqOBrmhIlrhqH82tPoSqraTGw7QgGjE84lUdwqYfg=
+
+Name: jyt/jvq/an.class
+SHA-256-Digest: juUqArM35ufJBbARROTEZdyaX3ku5juYYxWos7FJSuo=
+
+Name: fuck_the_regulations_v320/ac.class
+SHA-256-Digest: Ae8Eu+aBxp7ad9CmccV3V05AQkwm3rzuGss2jNvfTis=
+
+Name: fuck_the_regulations_v320/bD.class
+SHA-256-Digest: Q48tJMYsz7LpfoXNR6wz969qHabob70yNyQg2jC9GiA=
+
+Name: fuck_the_regulations_v320/bk.class
+SHA-256-Digest: YzBCWpM6Kj+ZFDMCyiTE3Bpm5VauPEaJ5Z/Nr7nBaC8=
+
+Name: fuck_the_regulations_v320/cL.class
+SHA-256-Digest: hFwbHbniqkoiWGUfA/PnDHH1W7HmkugmSe8Rb34bJ+M=
+
+Name: fuck_the_regulations_v320/bd.class
+SHA-256-Digest: Uds9WeOK5Ds14vyGPFXc52Mpi8Bvie2yfXSECAjpgvs=
+
+Name: fuck_the_regulations_v320/cE.class
+SHA-256-Digest: ESOqikwRKAyqIvg9TXYfASL6WOwSHHKCqeqvXpDNCs0=
+
+Name: fuck_the_regulations_v320/fd.class
+SHA-256-Digest: 7cC5CInt4Qo+G5h/RKx9ndus9h1/6wyaoqIeQKrP8k4=
+
+Name: fuck_the_regulations_v320/B.class
+SHA-256-Digest: PcGtRsGVprC1/9/NjikBBFcWVuNTMMx2H38BJ9UoQOk=
+
+Name: fuck_the_regulations_v320/a5.class
+SHA-256-Digest: HvI2qN99OkhfIax9uBzYVVkXQp9XoNx4kXSMeWr9FVk=
+
+Name: fuck_the_regulations_v320/cz.class
+SHA-256-Digest: ZdKgoDT8DvUHiVlXxtwy4ekG6VaWXqCR9oLwUGKt0AQ=
+
+Name: fuck_the_regulations_v320/dl.class
+SHA-256-Digest: 4jYIkShKvVuMM3YxLOoC+9mOe6LXAlTlc+s57uzGDZw=
+
+Name: fuck_the_regulations_v320/eM.class
+SHA-256-Digest: LDFs4MMUBJ5Qy70Wie3bnsMWIqHj/1S4jxSawL+f6ZM=
+
+Name: fuck_the_regulations_v320/aw.class
+SHA-256-Digest: Ptj/s/7F0WAbuoZU6R6/ywDU/fR+jFlQrwsSME1pL/I=
+
+Name: fuck_the_regulations_v320/bX.class
+SHA-256-Digest: yKimTahLinwxZm6taR5e8Az0uL0rvwHXebMvdSegI6s=
+
+Name: fuck_the_regulations_v320/c9.class
+SHA-256-Digest: R6KNJ8fXrY/TbIsQPCvGnHgdvSCTZkTqK2NfqJJL+cs=
+
+Name: fuck_the_regulations_v320/r.class
+SHA-256-Digest: pxGJd7zaqFCDaaMxzb8mx2B5x7pMk9jC27DhlQXzg74=
+
+Name: fuck_the_regulations_v320/fz.class
+SHA-256-Digest: OtDbivSdjYku8IVlPbiuE7/hV315lVMtYoYd28jbYCY=
+
+Name: fuck_the_regulations_v320/bw.class
+SHA-256-Digest: d/Smw95B+5qAypjZ1uyEXUgTNBZexa8Vod+x573kWjo=
+
+Name: fuck_the_regulations_v320/cX.class
+SHA-256-Digest: E5P0pg+cCUP4xPqvxQdo+nZV4R/dtKPMOqvWCaG0bX8=
+
+Name: fuck_the_regulations_v320/d9.class
+SHA-256-Digest: jZB3bziZ1R784HPBam3zT64uRHKVkDn3Njr61kBI/6U=
+
+Name: fuck_the_regulations_v320/er.class
+SHA-256-Digest: O4e0Ujv/zeDW851PALvMKN4B2R6LtPdKp2MlZPuRmF0=
+
+Name: fuck_the_regulations_v320/fS.class
+SHA-256-Digest: yxAYICXret+zj0lFXO+p06MidIGgetw2NMVIgrQZRvY=
+
+Name: fuck_the_regulations_v320/aP.class
+SHA-256-Digest: /UdmtptP/m8lwQ0btLHUeYizdjbEpoqDuFh7DiKBmZY=
+
+Name: fuck_the_regulations_v320/b1.class
+SHA-256-Digest: nBXgJmOeC4eYTXSwrACKL+87D450xCNvr+sfmUxiULw=
+
+Name: fuck_the_regulations_v320/et.class
+SHA-256-Digest: W3b4Xlq7vmxCHzNIGih/KzrzaHF66NUxpSetQc89+mE=
+
+Name: fuck_the_regulations_v320/fU.class
+SHA-256-Digest: rujSmQQg3K9rY4IUG2OaYQjxhgJGAoEsgM+WIDnYjpc=
+
+Name: fuck_the_regulations_v320/u.class
+SHA-256-Digest: SztUULA2xRG52sc/6GcKMIchMdVTd53q+jF7uE6VOr4=
+
+Name: fuck_the_regulations_v320/aD.class
+SHA-256-Digest: Q+fQ0OGy5bDwA1I7CAQJV/JkUZcEKnDDRbRvBW2kHAA=
+
+Name: fuck_the_regulations_v320/cq.class
+SHA-256-Digest: rBxj8Bxy//x03CaSud7/Yby1XirYUB/zZgFA9IB33HY=
+
+Name: fuck_the_regulations_v320/dR.class
+SHA-256-Digest: MN9MgtVSzB0rWk1KlPNpXpDeNj2RkqNm/kTvkB8gkXs=
+
+Name: fuck_the_regulations_v320/e3.class
+SHA-256-Digest: 4q4xHvUN78QLTQWgvJlSPHwPKzh7evSnBfeUWpGLxPI=
+
+Name: fuck_the_regulations_v320/d.class
+SHA-256-Digest: W+jI18m149qRzlJ4djbIFH9UTgDYu44teFRHBlFXMQo=
+
+Name: fuck_the_regulations_v320/cd.class
+SHA-256-Digest: eDeAv9ptbGN2h7OkBxkr4gehjvuJUtXl97uJCHJLvO8=
+
+Name: fuck_the_regulations_v320/dE.class
+SHA-256-Digest: vsIbeaOGWVjTYmb2HeyobXoH/Q5nhBWnl/kb1y0nWz4=
+
+Name: res/fls.key
+SHA-256-Digest: GwnqFC05w2Qoi5LzH6p600EXgEvnqesNeqq0g8/5cG8=
+
+Name: fuck_the_regulations_v320/bf.class
+SHA-256-Digest: oUd+YCn3hQ+JbsozTbPNtf1g99MwxKxJoSUPdhceASU=
+
+Name: fuck_the_regulations_v320/cG.class
+SHA-256-Digest: 6buQ1zkFg9cjMrZP8D3AEiDh4fdV2HzhxpajKl0KXa8=
+
+Name: fuck_the_regulations_v320/bi.class
+SHA-256-Digest: 51/GmDJuVX7OV/gHburRN93EZ/CH3Oj9ezuLeFCyrWc=
+
+Name: fuck_the_regulations_v320/cJ.class
+SHA-256-Digest: PIib0k0GpXeSW5ukw0Maac3y39EOr37utlZro57o2ZU=
+
+Name: fuck_the_regulations_v320/aa.class
+SHA-256-Digest: e+beQSLGbqjdfjkYPn4oUePawc/cQK7zOT0pjL2XlYo=
+
+Name: fuck_the_regulations_v320/bB.class
+SHA-256-Digest: 8NZtMiHqSK805aVvr1UtUdTJDixY2fZBI+b9R15KTLc=
+
+Name: fuck_the_regulations_v320/a7.class
+SHA-256-Digest: jn+Z8+3EmvfhiOIy+xXeMJZr98tcJs/oIJCuOa/VTTA=
+
+Name: fuck_the_regulations_v320/dx.class
+SHA-256-Digest: 6UvMjke9unnfSLl6CjFsuFvPm8Ihw0cYV2ehpYEaFOI=
+
+Name: fuck_the_regulations_v320/eY.class
+SHA-256-Digest: 2ZTV8e/Gsd2dMr9VOctcX2aEc0hp+ka+AADeQ57lI1s=
+
+Name: fuck_the_regulations_v320/bu.class
+SHA-256-Digest: JS2SQ1JqgAPWcrvoZo6TkjKFM1FLYiIrCR0skpBqiw4=
+
+Name: fuck_the_regulations_v320/cV.class
+SHA-256-Digest: ioqdGkA1qFBXOQDmUOoRRYnoljh1XNJAJmMIqFaojAg=
+
+Name: fuck_the_regulations_v320/d7.class
+SHA-256-Digest: HokqnCdjfQfiMXdhQ5Umc+EoTF8ojFGO24z4OHX7V/g=
+
+Name: fuck_the_regulations_v320/dj.class
+SHA-256-Digest: 95438mhmBb0e39Ue4oHzUGxuhOMn+bYiqKPEHKRS0zg=
+
+Name: fuck_the_regulations_v320/eK.class
+SHA-256-Digest: ddA13MsX+HygnQQ2Rt0eLB6TqXVuHHgKHajUrfS2ty8=
+
+Name: fuck_the_regulations_v320/K.class
+SHA-256-Digest: jF4L3tzDoQKEdCJLxafz6mIVStJ5K2iADkZADhx1r/4=
+
+Name: jyt/jvq/el.class
+SHA-256-Digest: 6AWIwHObIpSIduHYdte5qIA6mtljR7+/SczO7i+viV4=
+
+Name: fuck_the_regulations_v320/X.class
+SHA-256-Digest: 3KtvCyV6mzLuGUxK8EcNdlgnYtTmqN8eQ1Dd5OIZzTs=
+
+Name: jyt/jvq/f.class
+SHA-256-Digest: 4+Ocsjea1RIjC6ye/iLAyQHrtmZZoiLve2+csOl/tag=
+
+Name: fuck_the_regulations_v320/ef.class
+SHA-256-Digest: 0TtGEk+3QsGDKp26001TYW3GV057l9jbWN30f0Mxekc=
+
+Name: fuck_the_regulations_v320/fG.class
+SHA-256-Digest: ufovfYZP5M7wqtLaruAF9m+21Ua+PgWeE3XKYE5SXhk=
+
+Name: fuck_the_regulations_v320/am.class
+SHA-256-Digest: G47AmYQlS4tZZ7se572SZ8kV4dAzF+wWnHSJtm5wmXA=
+
+Name: fuck_the_regulations_v320/bN.class
+SHA-256-Digest: m3qgSAZAmEtCij1+UmzeB8pMUPQo6ceYP1da52/Df54=
+
+Name: fuck_the_regulations_v320/a8.class
+SHA-256-Digest: FnfTz/xPhw+MZyBKjKC7umpAAXHgUgndpm0PHG+F/F8=
+
+Name: META-INF/maven/org.javassist/javassist/pom.properties
+SHA-256-Digest: gGToW2Z9e6Wjiazt3OVOMR7Ujk06IW8OT/cFvv6OFXI=
+
+Name: fuck_the_regulations_v320/ay.class
+SHA-256-Digest: UoZJaqIf1sVC6QHmB+FIVH2C9nPNJGMu3eGCb4SsXhk=
+
+Name: fuck_the_regulations_v320/bZ.class
+SHA-256-Digest: RvDjYzwUAZjSZ2u1JelBooH/E7yFZkFF9Auab7nZgAY=
+
+Name: fuck_the_regulations_v320/cp.class
+SHA-256-Digest: H5eL+3HINqVTZ4O5AnkYB58H2WeVdapjYovks705HIg=
+
+Name: fuck_the_regulations_v320/dQ.class
+SHA-256-Digest: mI8SpDoWf6y+/YPwmHDNUnFKMX9362hp4NvLuyt9/zs=
+
+Name: fuck_the_regulations_v320/e2.class
+SHA-256-Digest: Rec3SrYikA8ll3Dude5JrL7vhIiZddrfqfpKMosSYM0=
+
+Name: fuck_the_regulations_v320/aR.class
+SHA-256-Digest: S3MCaJqyDI7TP8wN+y5OKwct6cnESEnuV3exHysl6nQ=
+
+Name: fuck_the_regulations_v320/b3.class
+SHA-256-Digest: csKYHp/vPjXLq4bgiLqthwUIqBwN0W1CbO7t0GilwY8=
+
+Name: fuck_the_regulations_v320/L.class
+SHA-256-Digest: 2UnlhSM8qmVzcnpvrvrMHc19c+ZqbLW2KmGBpuPJ/ZI=
+
+Name: fuck_the_regulations_v320/f.class
+SHA-256-Digest: KYFpntvhxTZZl2iEDbBKKkxplzzkjIk1NKIIgBcXkBY=
+
+Name: fuck_the_regulations_v320/fa.class
+SHA-256-Digest: u11MR/OU5IzYFSd7Cn8TOsm1P/nBDhfF8J74bjW+q70=
+
+Name: fuck_the_regulations_v320/fn.class
+SHA-256-Digest: BcnYZ9xxDlnFPcEporMg2NxZmnP1TXjrFyD3lbOo5cQ=
+
+Name: fuck_the_regulations_v320/aC.class
+SHA-256-Digest: Ilm00cRUAFIvELnkBD9FJP0IXdSTbNVsW1ZHSpHlnxU=
+
+Name: fuck_the_regulations_v320/bs.class
+SHA-256-Digest: bX40LSM+mBPLILtOL8cOZcnUyz6yNdFQ595Cb4gqFto=
+
+Name: fuck_the_regulations_v320/cT.class
+SHA-256-Digest: 7+rsvY9H1UMa/eZIQ2mQ3lv26+BtAA858NZL931KLgM=
+
+Name: fuck_the_regulations_v320/d5.class
+SHA-256-Digest: 8+9y+LYg8xVWvv4et3JT1id2GuMGMsG9Dqv0dVOM4X8=
+
+Name: fuck_the_regulations_v320/db.class
+SHA-256-Digest: d5tTAk+Lmr91NU/39L2d236rhsA72nxAm1WvCLeI+u8=
+
+Name: fuck_the_regulations_v320/eC.class
+SHA-256-Digest: a+Vk36mYNg7bF/Sm8wV4WzsOACaPTcuPy+ub9W3uwEQ=
+
+Name: fuck_the_regulations_v320/y.class
+SHA-256-Digest: dGo0JpbMMmX6eN5qSC9RDLDzOcocHSq6nMZS9BONipw=
+
+Name: fuck_the_regulations_v320/ap.class
+SHA-256-Digest: 3pSHgcr2XsL7pvCFWEPH6ePP4Vce7oPKSDFR5T3JkdA=
+
+Name: fuck_the_regulations_v320/bQ.class
+SHA-256-Digest: XIcE7EX9N4Ogj2lDddSdLwzUNEX+sGzwcusQT7XilXY=
+
+Name: fuck_the_regulations_v320/c2.class
+SHA-256-Digest: +Yrzns2HuxfyrBWC++NteJChNEkXKCrqGHG4LP7h9Rg=
+
+Name: fuck_the_regulations_v320/F.class
+SHA-256-Digest: LpMlTAz8DemgxMZZtQS3U1vdkRYPliLWsHmleKj6LRY=
+
+Name: fuck_the_regulations_v320/ce.class
+SHA-256-Digest: CieQJouGG29TlBS6JIKbZhOM4S/rP5sGW7X0FdmpjrM=
+
+Name: fuck_the_regulations_v320/dF.class
+SHA-256-Digest: pXNH2HV3p0ZkPBSpfO2079cimH+34Mz3YF3/2xxkYws=
+
+Name: fuck_the_regulations_v320/ee.class
+SHA-256-Digest: bCldx25DjOpe8GU0s4qDVL6SPIWes/9JPYXeb2AdRrI=
+
+Name: fuck_the_regulations_v320/fF.class
+SHA-256-Digest: N5vTevC8XhrEqZavLNEIZFz8L8oJZ14jzVyNJt3xfn4=
+
+Name: fuck_the_regulations_v320/bm.class
+SHA-256-Digest: 8tcDJzgWI6jJj8BlnMShBy201ty+Jl1HYZIZBVu9vYc=
+
+Name: fuck_the_regulations_v320/cN.class
+SHA-256-Digest: CKnWIV1JFk/OkZtCNnTS1Fx2lVfyM1z0KaSE0RId2GM=
+
+Name: fuck_the_regulations_v320/aZ.class
+SHA-256-Digest: inZPlUIkfVqI8szo7eeCNotEy5vOxtuFtpl8rtcPjjY=
+
+Name: fuck_the_regulations_v320/dy.class
+SHA-256-Digest: gWc5korPElXUd1xmX9BJ9aS5N++tzKlk8podRQ3W3/M=
+
+Name: fuck_the_regulations_v320/eZ.class
+SHA-256-Digest: KbKPEjC0BkQVnawe7pJuYAq8Zt8UO2TFSNMowX95B6E=
+
+Name: fuck_the_regulations_v320/fy.class
+SHA-256-Digest: rVLPzBShIOUfgJQXSnJcVclGSewaKqUTtInrVSeJQg0=
+
+Name: fuck_the_regulations_v320/ck.class
+SHA-256-Digest: BYLFt4+4XMCPxdh1TAJU4SUaTigQJDj6fOYVp2i7UlA=
+
+Name: fuck_the_regulations_v320/dL.class
+SHA-256-Digest: gt9LFPxlMAJ69hq45Y6NMi+P0jfQRIEQk7m2vmhZMAU=
+
+Name: fuck_the_regulations_v320/fs.class
+SHA-256-Digest: TgYo4rCQxVWJne4tEFwuxIOthBiDOqmiw1HoQmNIpO4=
+
+Name: fuck_the_regulations_v320/aT.class
+SHA-256-Digest: GKWmSWnlTlS6AfV+TD7X0DuJU3Rgm8bRZyOjBqN3IqU=
+
+Name: fuck_the_regulations_v320/b5.class
+SHA-256-Digest: fdAaUvgx3SPES0UxNJQW4PoDXPAB8aNaXduZGQKeq9s=
+
+Name: fuck_the_regulations_v320/fx.class
+SHA-256-Digest: WONmcjTZGoMfCen0J2rOIw8z78CfC/QRwZpsWBGrxe0=
+
+Name: fuck_the_regulations_v320/c$aq.class
+SHA-256-Digest: H0Y5Vhm/dawI00YnXsL2+LKxF3AYpnGHA370KCLTvTg=
+
+Name: jyt/jvq/pr.class
+SHA-256-Digest: lKUECJoqywMhjqXnpDw5Txo4ToJxCdgTMVbjoJr3G20=
+
+Name: META-INF/maven/org.javassist/javassist/pom.xml
+SHA-256-Digest: AESY0tbxTDAeOUAL2KjydN49RhQpi7J66yy5j2ixzXc=
+
+Name: fuck_the_regulations_v320/au.class
+SHA-256-Digest: tkGM63rV3lk4vfywd68uLkF4NFahoLratNe6ENlhTxY=
+
+Name: fuck_the_regulations_v320/bV.class
+SHA-256-Digest: 75dU62IxZpe5bWqtsgFusq4hnEHNNdj/9P1mb/Qt3m0=
+
+Name: fuck_the_regulations_v320/c7.class
+SHA-256-Digest: OuOXLMO1XAGrR5R+GNNlNt1D6p+qnR/9/MyNGQYYtzc=
+
+Name: fuck_the_regulations_v320/dg.class
+SHA-256-Digest: kRkBVg4UMXw57xMaj8HmRi6ItWyebhoNVz/52j6aAdQ=
+
+Name: fuck_the_regulations_v320/eH.class
+SHA-256-Digest: UiHoN9U62k2Tz2JByL0Qa2WQZ5j0f4e8Bwv6mJUX1IE=
+
+Name: fuck_the_regulations_v320/c.class
+SHA-256-Digest: Wi8dG6l/FOzcYkaRjSLy2oGTwzPZ2WSttsW5U/u2nck=
+
+Name: fuck_the_regulations_v320/eu.class
+SHA-256-Digest: Uo/yDYlmWaXP4exrckH/RX1sDXrKOQIg+w0eU2z8wwY=
+
+Name: fuck_the_regulations_v320/fV.class
+SHA-256-Digest: b4Jl8dU/Jd7+EWkFuk5KPmoMMirVgJgxNf8n0OSj8co=
+
+Name: fuck_the_regulations_v320/A.class
+SHA-256-Digest: SRU5ATOJIlMvZ8LQeJbwr2UwlYa2nlxLcXh7/90dHDU=
+
+Name: fuck_the_regulations_v320/br.class
+SHA-256-Digest: wMRaa0nqQAO5otMf9n5+xXk88Wh4pxLYV4PalK+9/VE=
+
+Name: fuck_the_regulations_v320/cS.class
+SHA-256-Digest: 0w3QX4UvgWDLOPGofaz8hco08H9LnR5Qqki/edJA3w4=
+
+Name: fuck_the_regulations_v320/d4.class
+SHA-256-Digest: MFCGF7BuxupwVd/luSDj7r8R3i+pU+nbsZLGyb0EtE8=
+
+Name: fuck_the_regulations_v320/b.class
+SHA-256-Digest: 9okVRd7ENdMeWJj/auSioi7iD7V0+/u4o12dP3j2ekc=
+
+Name: fuck_the_regulations_v320/fr.class
+SHA-256-Digest: uMrjowgT6Um3NC7BmjNc+2j8NL6WFVrD0VKN11uUlJA=
+
+Name: fuck_the_regulations_v320/aU.class
+SHA-256-Digest: FST2sXXIZ8FI3JDZnv3AspqJFRpD4ua/VwGQCc9vghw=
+
+Name: fuck_the_regulations_v320/b6.class
+SHA-256-Digest: hKkSqgmeD43FwYNRcuYYhaNXymFoeaw7rZVYux9LHzQ=
+
+Name: fuck_the_regulations_v320/cf.class
+SHA-256-Digest: 1Ia8/uEm3DXCVI8q3CTc+JrGiLCaTRi8DuahF6bKo9E=
+
+Name: fuck_the_regulations_v320/dG.class
+SHA-256-Digest: TMvX+WPJaQ4nyHsMQsyPhJfKlHb/6g8aqS2/iEqCVAs=
+
+Name: fuck_the_regulations_v320/ao.class
+SHA-256-Digest: sFsC1tpIoxvgqlGWMiH06pTqrA4mJevACOwbZr6myGY=
+
+Name: fuck_the_regulations_v320/bP.class
+SHA-256-Digest: Y+JTzqpkupy1GonVv7mx+RFr3Yet77pCS8GbgM1HA2Q=
+
+Name: fuck_the_regulations_v320/c1.class
+SHA-256-Digest: F5ZH56FXYUV/w04wmoaOpKs9IiWbGsp83DT7lWdGay0=
+
+Name: fuck_the_regulations_v320/dh.class
+SHA-256-Digest: +Fbxh/UmqmnsBzmVsV6pNKBSpjZ43ElrvfxBz/5XOnA=
+
+Name: fuck_the_regulations_v320/eI.class
+SHA-256-Digest: mFCHONboBlo89kxyZKWUq8kQ/E+rZ9EdqdNrMinv5uA=
+
+Name: fuck_the_regulations_v320/av.class
+SHA-256-Digest: Tkwufjsbtr9F0EWPP56/G7WZnkLsdjZPzLcMiGqWJkg=
+
+Name: fuck_the_regulations_v320/bW.class
+SHA-256-Digest: e+LGNgXj+mkVSLwbO4/quI6U9n0WfTzUfZ3lxsEr+uo=
+
+Name: fuck_the_regulations_v320/c8.class
+SHA-256-Digest: I65/jsKLiLBqWbidGP+SG658fZw5Vm0pIu4ETjA1nNM=
+
+Name: fuck_the_regulations_v320/ev.class
+SHA-256-Digest: S6GxwI9n0cKGxNstXD/xBpaoQtQFdCo8tXuiYnoUZCY=
+
+Name: fuck_the_regulations_v320/fW.class
+SHA-256-Digest: MC9dDZJiUYegUwP0HTvtlERc/j2JXYjsVj3uNK/ysSM=
+
+Name: fuck_the_regulations_v320/aB.class
+SHA-256-Digest: CcT7KJhiMkKkphwopjViBv3Wb2RSnwLywiY8gf7CFpE=
+
+Name: fuck_the_regulations_v320/da.class
+SHA-256-Digest: 9xFG75KaX0UOm5uIGTv8w4f3PhGucOSRZBWNLqZ9dC8=
+
+Name: fuck_the_regulations_v320/eB.class
+SHA-256-Digest: vQIhWwFIy4HdL4v7uSwE5jYMDsXgI2XsfUzZVHxMxLc=
+
+Name: fuck_the_regulations_v320/bl.class
+SHA-256-Digest: xOhRxG/w4X2uxh3c/eua2lNra7dnh7GKbKzMJfVxCDk=
+
+Name: fuck_the_regulations_v320/cM.class
+SHA-256-Digest: JcyXCYucRKUXUCLfEwzjOOtCOiaAeYZupCDO2H6hWIs=
+
+Name: fuck_the_regulations_v320/ez.class
+SHA-256-Digest: jbDcCo03KZhSC/M5QMkLFu2Uop0fLmOVTqmAyw0fEyg=
+
+Name: fuck_the_regulations_v320/cl.class
+SHA-256-Digest: 8e7JkDEFlOWmDD0j7rZx9Czdc1QnWXwD/Ieee9Zk3Z4=
+
+Name: fuck_the_regulations_v320/dM.class
+SHA-256-Digest: urQ37AyadnHpeQ4OTHhO8ZH4lmiKWMOAe0WS5IxVHSY=
+
+Name: fuck_the_regulations_v320/bo.class
+SHA-256-Digest: p1p+/PKLp3w1jOboZIHKxRJt/OxvR8k8Ac8Y7maGH34=
+
+Name: fuck_the_regulations_v320/cP.class
+SHA-256-Digest: dtbrf7W1gJVtJVIbAJMufPJJpFQTIBo4qGQ/hZ0d31E=
+
+Name: fuck_the_regulations_v320/d1.class
+SHA-256-Digest: oGrIheLoZlBd6+MymGwFvE2G1Qvleifi9tU7q6+PuBc=
+
+Name: fuck_the_regulations_v320/ew.class
+SHA-256-Digest: +i8xQZZImqqatsUwI31vOH/ZnlugVVdK8ZYjm3FK4lE=
+
+Name: fuck_the_regulations_v320/fX.class
+SHA-256-Digest: SgJkyQhIztypKwvS+kQFuQOWbnvtupXBtoMolz+2gRo=
+
+Name: fuck_the_regulations_v320/fw.class
+SHA-256-Digest: wsE6GT8aaraKZhZN1Bfoah3pmBTFFGl08IWVkSOtN28=
+
+Name: fuck_the_regulations_v320/aX.class
+SHA-256-Digest: hZmnP4iRS458bB3FUegKtHG8HhsyDWOJqVWPJvT/NzI=
+
+Name: fuck_the_regulations_v320/b9.class
+SHA-256-Digest: GNbG3o5/GJfvIy+cIasOk8Oe6/V2iFHZ8RgKHVAf7ws=
+
+Name: fuck_the_regulations_v320/at.class
+SHA-256-Digest: q5Ixf6zQWvtt0UiXmtcq/FYNdZliPT+5hf3uxLuo+AI=
+
+Name: fuck_the_regulations_v320/bU.class
+SHA-256-Digest: 2cE5gff02mmJSOwoBZYhKXB2DPN13QpacLTKS7b0kvA=
+
+Name: fuck_the_regulations_v320/c6.class
+SHA-256-Digest: GIOCdrVYqZgpj8qQODjM1HVFeq4DMfqz+xqA0Dhdhk0=
+
+Name: fuck_the_regulations_v320/df.class
+SHA-256-Digest: e620o3cBMApMbKNUVit+UCzyLGd0ZWa5wSBJpFx6VOA=
+
+Name: fuck_the_regulations_v320/eG.class
+SHA-256-Digest: BcudO8xuW7U6zO60JAtCL3Kyom1D042Huz9e60d8irU=
+
+Name: fuck_the_regulations_v320/dc.class
+SHA-256-Digest: PUIgHB8xDevxAagR1Fd53R1ykM7JxZZTh2Eo2B93VnI=
+
+Name: fuck_the_regulations_v320/eD.class
+SHA-256-Digest: +SrI6cNhZK96WGTYe/9gV8YCE1Mrb63k9IPqv9ozr44=
+
+Name: fuck_the_regulations_v320/aq.class
+SHA-256-Digest: jSotzY5+YqnhIlZ9y3yDJ2anEw34EzscQnii8oD8LiQ=
+
+Name: fuck_the_regulations_v320/bR.class
+SHA-256-Digest: 3zX9J0vQ35oreC5SFuRixHbTYbN9RnRcx7dvpwIw29k=
+
+Name: fuck_the_regulations_v320/c3.class
+SHA-256-Digest: 9yrlZ+ipQ1koYbPk4n2nbjqgG4UABVFPjSiq6Lpx5cs=
+
+Name: fuck_the_regulations_v320/G.class
+SHA-256-Digest: OwS91Xi00XRe0v42Hq/iimOb5l0UOrGd+gHs05ktUQA=
+
+Name: fuck_the_regulations_v320/x.class
+SHA-256-Digest: 6UDVcT5XiUFspsoqJ7uhrMujja7NRnNSI3VvSyGb/eg=
+
+Name: jyt/jvq/j.class
+SHA-256-Digest: FxzquheesV+lKWQsxMDdDBNuZZRaJlDa+HJLlhcRRNE=
+
+Name: fuck_the_regulations_v320/ea.class
+SHA-256-Digest: t0tzFzvPaOXVixKktLl8mgLV32H6PudUdNj5ChQ2PZI=
+
+Name: fuck_the_regulations_v320/fB.class
+SHA-256-Digest: vuixTmx3wQbnMLca/f+crg3IUTw0eIHw163ehmGvQrc=
+
+Name: fuck_the_regulations_v320/a.class
+SHA-256-Digest: 3MLw9w2F7jS5LHlzwiP0z0o7vhz+QzLe7lPPY9jzGuM=
+
+Name: fuck_the_regulations_v320/fA.class
+SHA-256-Digest: 0Ha6Byf4RKy6yzsyK/Nz7/z5x2vMJD7T7szc+lHaeXA=
+
+Name: fuck_the_regulations_v320/K$fG.class
+SHA-256-Digest: hNHJbeNqM4TZDil1YfvoWt+Pbaa3P81h0LIcMzs1Kxw=
+
+Name: fuck_the_regulations_v320/ex.class
+SHA-256-Digest: Fd9IBN0KgIOR4iwgqM+Y8dE3Cr23lOACd7bSaquuqHo=
+
+Name: fuck_the_regulations_v320/fY.class
+SHA-256-Digest: rOQEIjpEZTWbNXdzetPKsyRXeMnPeLPFEnGoQiwihm4=
+
+Name: fuck_the_regulations_v320/D.class
+SHA-256-Digest: YVRspCqb0ZNmLgKZmHRXue9fXsKlHcZB03ysZKN1Jw4=
+
+Name: fuck_the_regulations_v320/cj.class
+SHA-256-Digest: 7BMsW4Ag+EsGzfrfwTIcpz+A8AeIQq6/+mnb+f1MUn8=
+
+Name: fuck_the_regulations_v320/dK.class
+SHA-256-Digest: 6J+iLtydZ5ORp8z1cuSzeyCHW5XVacV+VYZTcyR3kXs=
+
+Name: fuck_the_regulations_v320/fu.class
+SHA-256-Digest: 8xm5cfqLyl2USZwSUnljZlDK4LlEEhl8eFQAAfiBDug=
+
+Name: fuck_the_regulations_v320/ar.class
+SHA-256-Digest: aAKhULIXgZVmulqU6EsNPaea6lhzB1XTaPvNsCG3BNk=
+
+Name: fuck_the_regulations_v320/bS.class
+SHA-256-Digest: b1ni6g0QjNuaJI/f7Oxv686FuOeG1QzSbRI4LNOp82w=
+
+Name: fuck_the_regulations_v320/c4.class
+SHA-256-Digest: gP4o9XQeUtAS4S9TUPvswmnHLLGDLQ2kPRGnCCjf4UI=
+
+Name: jyt/jvq/k.class
+SHA-256-Digest: civSxEeVMVpWc4fXFxw9j3Nb/Etq8wxMtzwpchUpQFQ=
+
+Name: fuck_the_regulations_v320/z.class
+SHA-256-Digest: krKhjxxRPoqfxZeNHOaZdSxVaHigLHzNawJrK9PB3ok=
+
+Name: fuck_the_regulations_v320/E.class
+SHA-256-Digest: bUr4iLbfa8oJoVpHuiESK4NQj8D2CJcU2X4YgvDF3EU=
+
+Name: fuck_the_regulations_v320/e_.class
+SHA-256-Digest: KhKrrDE2bIe6IibKJDI02AxHO9T9z6Q2YO7REykKilQ=
+
+Name: fuck_the_regulations_v320/ft.class
+SHA-256-Digest: DxzxVbVfVOzEBGHOWkBoAbrDKrqH6MvcwE6k7QyaCUQ=
+
+Name: fuck_the_regulations_v320/ey.class
+SHA-256-Digest: nYFRjggWQPTVuj5mOmGuZ/7J41MLemdmX/OFOd+gTY8=
+
+Name: fuck_the_regulations_v320/fZ.class
+SHA-256-Digest: piRzI6BjszP8xbs2vj0gYtu1cJg5Z7TEFA5EB5ydw+s=
+
+Name: fuck_the_regulations_v320/aY.class
+SHA-256-Digest: gA/Isv10Caiioz9ImNxl826Dz3jg9YL0MqLt3bFJbHU=
+
+Name: fuck_the_regulations_v320/dd.class
+SHA-256-Digest: iY3NYgqGfYwTnW8NLWiWtNg5mAdufqOvCkVWDuJH644=
+
+Name: fuck_the_regulations_v320/eE.class
+SHA-256-Digest: MmdHoUKrUOJ2WaiZgc8Ke06eBE+rREIEwe3Hhgrsyfc=
+
+Name: fuck_the_regulations_v320/as.class
+SHA-256-Digest: nq0ydQ2SEpO2w/+P1Q/gK8OlWgfpH4jW88S6eHX/JYU=
+
+Name: fuck_the_regulations_v320/bT.class
+SHA-256-Digest: 4Z1+rC/tsb+q8TiX+vsfilNggJj24ae+deWMlIh42PU=
+
+Name: fuck_the_regulations_v320/c5.class
+SHA-256-Digest: Cmx9c/BSsenAozIfXPws1NIGQoQ6T4EArbUt7zVH/5I=
+
+Name: fuck_the_regulations_v320/ci.class
+SHA-256-Digest: rC/WJOs9wzTFOTeCdoX7TJFkgMCFLzJCUvrIu7p+Vmg=
+
+Name: fuck_the_regulations_v320/dJ.class
+SHA-256-Digest: GM149oNIS935lM3rWGcjrbXY+ioe1yue40+kee/Hdmc=
+
+Name: fuck_the_regulations_v320/bn.class
+SHA-256-Digest: 3oK/be9C6wVb/1LFvBz96oDeRpRlxTGqL5rxvGLPRog=
+
+Name: fuck_the_regulations_v320/cO.class
+SHA-256-Digest: VGk5SjDbll10U58XBtFgeOrbX/onyF0kRrkY7SqHtu4=
+
+Name: fuck_the_regulations_v320/d0.class
+SHA-256-Digest: SVhZSe8K58B6W1X/Ydzi4hJ8lJVIJtHR/8TRDRVuHK0=
+
+Name: fuck_the_regulations_v320/es.class
+SHA-256-Digest: Y4LgYq+fOugthSdJMEie+clJy2KM4r2dybKrmQewXx8=
+
+Name: fuck_the_regulations_v320/fT.class
+SHA-256-Digest: Z6pupP8ynyqR934EdooVP9qyQ6Rmpz20ktM/7j+W2w8=
+
+Name: fuck_the_regulations_v320/ab.class
+SHA-256-Digest: tmvbprq0rKaXuM9dFU8huU2oPVr+Am5isnN/7hWuiI4=
+
+Name: fuck_the_regulations_v320/bC.class
+SHA-256-Digest: op4rhu9XKfWokOxaY3fMheI2IqmBRtelK28RYyJZZs0=
+
+Name: fuck_the_regulations_v320/aQ.class
+SHA-256-Digest: qNODnW21y4mtOX/5kQyCt7H96lGakHENJPFPqVqb49s=
+
+Name: fuck_the_regulations_v320/b2.class
+SHA-256-Digest: MLNy2Bso/7U+leP4b20pvFzMBQb/ygu7pDW5/9xYui8=
+
+Name: fuck_the_regulations_v320/e.class
+SHA-256-Digest: CxXrqVjPhfirq4mdEvrbVIuC0UGIxpTwsYQCRiuzfnM=
+
+Name: fuck_the_regulations_v320/dp$fG.class
+SHA-256-Digest: qeJ50GEINERjfAc5AKZ7d42HCgME8XYgjz9OThi0D3U=
+
+Name: fuck_the_regulations_v320/eb.class
+SHA-256-Digest: g05q3tQ/GfGij9SL4Y4TXkgjbX9IpGVgqA3aF1kIH/s=
+
+Name: fuck_the_regulations_v320/fC.class
+SHA-256-Digest: M0w+6XGYvtXjq0JIxG8VephIIMWOgJaLu5wKn8pwDQ4=
+
+Name: fuck_the_regulations_v320/be.class
+SHA-256-Digest: fhI+BNFxq2A3GpifKGjZ2pDb3bNjpYqzJJ2/pxn3B20=
+
+Name: fuck_the_regulations_v320/cF.class
+SHA-256-Digest: 2VZHo891ZS5+hPQPkGCn9GaJDtPJpZ1dD5RWIXgj0QI=
+
+Name: fuck_the_regulations_v320/fe.class
+SHA-256-Digest: hUNAZGkxDKkDQV2fZiMY4WQbfWtiJE8pYMItV07U9aE=
+
+Name: fuck_the_regulations_v320/C.class
+SHA-256-Digest: +LlQO29qYdR/C8mBjjS3HzhmqgJqtYtOweS3nN4O+zk=
+
+Name: fuck_the_regulations_v320/ch.class
+SHA-256-Digest: Tq5EJmHjeQj6tAyl7z2K7cCMQZ9qdmORIpgwQyBBR94=
+
+Name: fuck_the_regulations_v320/dI.class
+SHA-256-Digest: n5MqvkefBUsIXLoex+HCsYfPSmpsAXWiDssLyZY9J0Q=
+
+Name: fuck_the_regulations_v320/d_.class
+SHA-256-Digest: r/WsAlvUdMyxpcnPKcDAMdHkhRo6+5FR4p2+GLR94hg=
+
+Name: fuck_the_regulations_v320/dp.class
+SHA-256-Digest: Qv99YTgQ0TS7PwmMRd1hJTnggsyfdDUWLBOk7fOE9DA=
+
+Name: fuck_the_regulations_v320/eQ.class
+SHA-256-Digest: Nq2ZYq5S77yMsRt7kzcPl4k4EG/p1vU8cg5FoJHoBpY=
+
+Name: fuck_the_regulations_v320/f2.class
+SHA-256-Digest: HdXC56xBzxDFKs41ETscQhMnDUQrCUwVP5FagKkpuRY=
+
+Name: fuck_the_regulations_v320/q.class
+SHA-256-Digest: T714IkWwW+aLWICQLuDS+50pjesmKAvj7wt6Sw82YLc=
+
+Name: jyt/jvq/Handler.class
+SHA-256-Digest: bGQwXJxeIVNDVTvH2m3ieS7PIQzQEryp/zZ/7yGlIMc=
+
+Name: fuck_the_regulations_v320/bv.class
+SHA-256-Digest: vj3bUHyNzsQFtC3yRFxNFzZh4QkKMtR8rj/N4+UebCY=
+
+Name: fuck_the_regulations_v320/cW.class
+SHA-256-Digest: lmRj+3jfaVZffpmNK0V5Wnqt9l8j2EVFXRINW+1YQoo=
+
+Name: fuck_the_regulations_v320/d8.class
+SHA-256-Digest: d91MPtaL3DYQim/SWTXNLvdhJa4/QNtYzro6j1DdekA=
+
+Name: fuck_the_regulations_v320/fv.class
+SHA-256-Digest: 935geZwLlmQikWhBGc4488RRguYlvwoQ6I6Gs3UjbwU=
+
+Name: fuck_the_regulations_v320/ax.class
+SHA-256-Digest: quUhGkStJ07u06drg4FoogKqc6ocdCVw0SmAXP8aSOc=
+
+Name: fuck_the_regulations_v320/bY.class
+SHA-256-Digest: j9kq7+xzneDsVo5obFWfkwjC18MMYrppTo1ro2E5j1M=
+
+Name: fuck_the_regulations_v320/T.class
+SHA-256-Digest: 8GwGTrdsMk151bmRZ4Hb53MUPj8gxHg0iMtQS6TtcQw=
+
+Name: fuck_the_regulations_v320/an.class
+SHA-256-Digest: t4b1YTDBahzJdcqcNXPJ3ncyTEJF6B66JVPE8rKZS8Q=
+
+Name: fuck_the_regulations_v320/bO.class
+SHA-256-Digest: kZ2ml35y+Oe2ACLlBfysDiBZWYP/sGUsdArNCNb+Xmo=
+
+Name: fuck_the_regulations_v320/c0.class
+SHA-256-Digest: waCbeCiUMu0FV5fFCyf3lTRtQCchS/g95HykUWpDYe0=
+
+Name: fuck_the_regulations_v320/en.class
+SHA-256-Digest: V4UKZX1OYicD1NF9Dv6O3JxtY5qPRCOWLuoVj2muw9Y=
+
+Name: fuck_the_regulations_v320/fO.class
+SHA-256-Digest: RtksEJca0di7OOZ5iiky9zPrOBmx2OY1rHb5kgwm/yA=
+
+Name: fuck_the_regulations_v320/fq.class
+SHA-256-Digest: yvhuq4ykDX+Mnc7AFuaXH22/btOe4WnOvB6/Zz2BPs4=
+
+Name: fuck_the_regulations_v320/du.class
+SHA-256-Digest: 7jcJMdcmEch51lC0f9o2rqlSzRrUi1kTsDRV3adnQYo=
+
+Name: fuck_the_regulations_v320/eV.class
+SHA-256-Digest: Dyaf3sEDosp0P192l9g9FuRi3Z51RIIPrIbiAAjPihY=
+
+Name: fuck_the_regulations_v320/f7.class
+SHA-256-Digest: oCTrZB/+FfCOgpeYDPt57/JupByQ6fPWgzuqsz2krcg=
+
+Name: fuck_the_regulations_v320/aV.class
+SHA-256-Digest: eTAA19b3yscO59RWmEqY3GsXJ+1Z0Imxe5rElrRfMhc=
+
+Name: fuck_the_regulations_v320/b7.class
+SHA-256-Digest: k3jo8zKJAbxXv3lOBZMaFq1s4RMbsfFMbNZfETPNg6U=
+
+Name: fuck_the_regulations_v320/bj.class
+SHA-256-Digest: yZpc99ADY1296TQuFrveOz8b28XnEZHffA4IhbL2zek=
+
+Name: fuck_the_regulations_v320/cK.class
+SHA-256-Digest: c+OqJlAf8AWn8Qkx1s+ewOlHNgqjKvmn3OZz8YFvWmw=
+
+Name: fuck_the_regulations_v320/a4.class
+SHA-256-Digest: yOdSmyipzp2VqBUgRW4wLmzActlafXGy0o+xaoHxXK8=
+
+Name: fuck_the_regulations_v320/j.class
+SHA-256-Digest: rYtMi2cSeQHCCJUpjp9gJcK2NSXasO1Wts2JKRj9c7I=
+
+Name: fuck_the_regulations_v320/cr.class
+SHA-256-Digest: iCLsXHPFWYb0bcc0QswEZ6Gq6EsH0iMTZW4x17QRr5o=
+
+Name: fuck_the_regulations_v320/dS.class
+SHA-256-Digest: HxtDa6CFldyq5jQfTDoF+LhVquY5O5KJjG8YuM6F2Lg=
+
+Name: fuck_the_regulations_v320/e4.class
+SHA-256-Digest: 8590Cff1LYSvVgy0dfd62w+lUEo1o9FWvCILccGXAss=
+
+Name: fuck_the_regulations_v320/cm.class
+SHA-256-Digest: pZ4ss95DHiKAoahpDY0RcjqAblQBUIe6V7oIt+ZaZCk=
+
+Name: fuck_the_regulations_v320/dN.class
+SHA-256-Digest: N2enaNhavnpmsXolpt4bpREiMjhUbDNH0S2Tg8PJGso=
+
+Name: fuck_the_regulations_v320/H.class
+SHA-256-Digest: ptgK0aduZDle2pY5RMq96hwd8elxwxqsN7SLkw1AUbU=
+
+Name: fuck_the_regulations_v320/cy.class
+SHA-256-Digest: sc2dZdsWzDNvVOOygV8Oq3+DePXHE6Ldi/XgkNini50=
+
+Name: fuck_the_regulations_v320/dZ.class
+SHA-256-Digest: VUnTm4dRk6VxHdINdJPjWXUXiEJ8NxoGit/8AYmoOEs=
+
+Name: fuck_the_regulations_v320/ei.class
+SHA-256-Digest: aEXPp7io8X3dXeItm10madSBW0dh74Mc9GQrOTP/dAc=
+
+Name: fuck_the_regulations_v320/fJ.class
+SHA-256-Digest: G3L7IFJ4Qo+INPm0imShp4fvma1e7jLGSuwAoUijQH0=
+
+Name: fuck_the_regulations_v320/bq.class
+SHA-256-Digest: tja35q5UupMwhpy1oQKfobHZejzHPIdGVwxX2rZU/iE=
+
+Name: fuck_the_regulations_v320/cR.class
+SHA-256-Digest: +hU6IRXvsSyIaL6Ev1aT8Q/sEBvuXB0eAKr5ocKECaU=
+
+Name: fuck_the_regulations_v320/d3.class
+SHA-256-Digest: kGmHlAU9eox088be40+k/73Ecx2LGRCgvlDRPLQWlUU=
+
+Name: fuck_the_regulations_v320/v.class
+SHA-256-Digest: Nr/oxljXdMvK7Nk2hR40G9h7iSmMjwg4V/f/Cb22eGM=
+
+Name: fuck_the_regulations_v320/ai.class
+SHA-256-Digest: GSa6EEbHv2Ma7I/NvoiJZJw1E98Qga91KCBbmBKZnUM=
+
+Name: fuck_the_regulations_v320/bJ.class
+SHA-256-Digest: 8dyPAuFIqRJ5jqI4ru9++cQCvNefXsNHI4DMXA70N3s=
+
+Name: res/code.key
+SHA-256-Digest: GVOWcAbKa50PoicFj3o+OSOHzDMq1w00FTJLeaaKJMk=
+
+Name: fuck_the_regulations_v320/O.class
+SHA-256-Digest: zJCiJ5f6pTidnKKSNEDXDra9smsYoOzsBF4g9SJnkVc=
+
+Name: fuck_the_regulations_v320/az.class
+SHA-256-Digest: F8zFoG/PwjJ/6C8k+bbM9s/dmqqLHI4nwbezLEUoc70=
+
+Name: fuck_the_regulations_v320/fl.class
+SHA-256-Digest: e0yos0jcnvCgeZR3W0xC2tXkSLBrld2Cl5uNkATs+No=
+
+Name: fuck_the_regulations_v320/dz.class
+SHA-256-Digest: URtz/G8LlhzzgDDaFCabtmBduxEIWiWAXxhbu3Er0Rc=
+
+Name: fuck_the_regulations_v320/al.class
+SHA-256-Digest: c9rQ4UvPlTlEMT5r5Sev1iY5U5EKYH4zwzk6WF14Ty4=
+
+Name: fuck_the_regulations_v320/bM.class
+SHA-256-Digest: 9qFuizusPwIVH8cfFqDyZZ25E6xM5zeo4vyapBw/Wcg=
+
+Name: fuck_the_regulations_v320/co.class
+SHA-256-Digest: c4eOIjdaWL6VoPlkk6tzInsenkeQD2cCHVotZZ88dnA=
+
+Name: fuck_the_regulations_v320/dP.class
+SHA-256-Digest: ZQC1IVJ3B3mhifrovqH4GOS2YXCRgccKSjLlffz+vUA=
+
+Name: fuck_the_regulations_v320/e1.class
+SHA-256-Digest: dRx9v6BuOBMazpNPxvoEOv6KYGknwPVB9I4gqj8F2J0=
+
+Name: fuck_the_regulations_v320/fo.class
+SHA-256-Digest: EZW/DZsoRkEuszDd3v4u10VVpLh7PgZMY2/rxgapFT0=
+
+Name: fuck_the_regulations_v320/dw.class
+SHA-256-Digest: ST3ltsK+jsI6IEYDnWObGb5RO4vGmUvAtDKbAg6IZVc=
+
+Name: fuck_the_regulations_v320/eX.class
+SHA-256-Digest: f0aYqirR6usUzwAJynQOGKhmWtZhvplsk+X3nTckIKM=
+
+Name: fuck_the_regulations_v320/f9.class
+SHA-256-Digest: n3k0AsYyyezIduJgTTYL/GDfZhl01Nl8ItyRz58/bvo=
+
+Name: fuck_the_regulations_v320/a9.class
+SHA-256-Digest: 4/Ma3dtvUfJyQfIRYyjhBbW4Svj/1ucoJ5ef2ObXKu8=
+
+Name: fuck_the_regulations_v320/ca.class
+SHA-256-Digest: ytYHdiLL6vzqTKTr8wgoy0Vau+C2eKDMrfj6+B2+wDk=
+
+Name: fuck_the_regulations_v320/dB.class
+SHA-256-Digest: KB12sx0x5+vGN8exdPgB27n6vEQr+0u90D+YV2PVNwA=
+
+Name: fuck_the_regulations_v320/J.class
+SHA-256-Digest: wPrSY7TYLaekdZPQr9NhjgpbzgeLW1fuASmFZ3VbUf4=
+
+Name: fuck_the_regulations_v320/a6.class
+SHA-256-Digest: w4kF2QR5dhywuRY3YQYsymS/Daxm/IzmvElZeyDJP0E=
+
+Name: fuck_the_regulations_v320/g.class
+SHA-256-Digest: d6X5KgXvO0uQfl26GBBadHO+T0iaobhCJSZw+65erBA=
+
+Name: fuck_the_regulations_v320/M.class
+SHA-256-Digest: iDvBrQWqcAiRn9jQxXGPfJ4NtkmNB6Rb/PXTxtN/Q/0=
+
+Name: fuck_the_regulations_v320/di.class
+SHA-256-Digest: hsJAchtdCXj3jWi9qNIAcQYF65xoHgF3xZAXItpL5PA=
+
+Name: fuck_the_regulations_v320/eJ.class
+SHA-256-Digest: JRyM7bfCNSqm4UzqJdQtkJVoAPcRf52t4BwbBwE6ssk=
+
+Name: fuck_the_regulations_v320/aG.class
+SHA-256-Digest: 4jEmXAkygnadydmBWCbmxWAB40saLv8dtP3591QdNkM=
+
+Name: fuck_the_regulations_v320/ed.class
+SHA-256-Digest: mBSIxnkK2COza/RscsIMVTXOLH1NCePWfxKlKftTaPo=
+
+Name: fuck_the_regulations_v320/fE.class
+SHA-256-Digest: RjOZexYbbaR7JhKt/dyyO+vgkKriPgWHtp8kbc2o0cg=
+
+Name: fuck_the_regulations_v320/bg.class
+SHA-256-Digest: xahLI2NWaHzNkli1O8b+hEck5cnEgiM/gvPN6ZmLKog=
+
+Name: fuck_the_regulations_v320/cH.class
+SHA-256-Digest: yjlWuw7DROZgaxp8sDmLQ27aJzxJnY9I9gVGd0Mk3S4=
+
+Name: fuck_the_regulations_v320/t.class
+SHA-256-Digest: 7SMCBUenmxGlAgpAw5iWIOY3r4XjMJobkpXKzmUaBb0=
+
+Name: fuck_the_regulations_v320/eg.class
+SHA-256-Digest: 57i2d77uMtU/SyFIqEkgU/Tjl58GVTIh9fogJ3VfMNE=
+
+Name: fuck_the_regulations_v320/fH.class
+SHA-256-Digest: wwvMJ2SYm2xjw+iQKS8/tJLCrLqddG6JrtgH8B4TxkQ=
+
+Name: fuck_the_regulations_v320/aS.class
+SHA-256-Digest: Jw2ho0D6SI2y2JzhB3jHr5+pQ8fu3uh/7CMsDSokhyI=
+
+Name: fuck_the_regulations_v320/b4.class
+SHA-256-Digest: 0gibnOqfXfaJIYYhXaeQBr85tkcfIfG9o7uAuUnXRi4=
+
+Name: fuck_the_regulations_v320/bA.class
+SHA-256-Digest: D/6/IL0ptJW/8Ud0n+qCnwxEoeUwWJVhI9CCLi8NvVE=
+
+Name: fuck_the_regulations_v320/di$cm.class
+SHA-256-Digest: ErY+rr8meA5XHsyNnyjfQVYfnVW0BDO38F9NuBrMw2c=
+
+Name: fuck_the_regulations_v320/bt.class
+SHA-256-Digest: vvMuiDk4Nv1lNv8m210mm6CYZ8V8bQDewL99zhtgWaM=
+
+Name: fuck_the_regulations_v320/cU.class
+SHA-256-Digest: wI11Nn4rqDlf59hIM+XWdpnlvXm0AkE/G5s9bN9EssM=
+
+Name: fuck_the_regulations_v320/d6.class
+SHA-256-Digest: eonCuYDJMS/f6zFRTvvSDBDo7og0neUd5xVnCav5/6w=
+
+Name: fuck_the_regulations_v320/bh.class
+SHA-256-Digest: 6VVz/hxFJAraI+2Ko36dduLbc/PxYhnm7j932ANfP/E=
+
+Name: fuck_the_regulations_v320/cI.class
+SHA-256-Digest: HttMuTxUeX3zBAfl0ggc18Xlin1JsJfvRB0cIjCWBL0=
+
+Name: fuck_the_regulations_v320/us.class
+SHA-256-Digest: EXndoSHNU70wRQN+dbFYZBVkDHtv9VlWFYHVtDmKp7s=
+
+Name: fuck_the_regulations_v320/dk.class
+SHA-256-Digest: /ZYBcXs+ESA6oal/Ksa+X3USgnPMC7UtDXLZfBIVF4Q=
+
+Name: fuck_the_regulations_v320/eL.class
+SHA-256-Digest: OnuMc817rjk2KWufOt+hBHC4xMJJSSDxH5S5OO/5/r8=
+
+Name: fuck_the_regulations_v320/ae$b4.class
+SHA-256-Digest: AJW9pfP/+jtFD9QLT8mdwIfDd5fGfmpnm7n8/o73y9o=
+
+Name: fuck_the_regulations_v320/cc.class
+SHA-256-Digest: wazYRCbUn7e/ljWeya80+snG75v9WkQyNuEXQDbFr2w=
+
+Name: fuck_the_regulations_v320/dD.class
+SHA-256-Digest: jNlI1/vuFXrbyuwd2tgn0MTjli/z52Void5sb6K9ydU=
+
+Name: fuck_the_regulations_v320/Y.class
+SHA-256-Digest: by5spADnTOHTs5Fe5m57iEVJLS3qMv7aMECKbad5M8k=
+
+Name: fuck_the_regulations_v320/a_.class
+SHA-256-Digest: s8bnjaxnwKPRHifWbiTIazz1oo28NASOffpaz2GKbIg=
+
+Name: fuck_the_regulations_v320/aE.class
+SHA-256-Digest: Ypa7eZvUFuJ+Q1ysBdRfXz5H84UQ7Xk+Fou49E/yWVU=
+
+Name: fuck_the_regulations_v320/s.class
+SHA-256-Digest: wJ++sisQk74bq3xsHU94jsWwHOPPU8TS6QKrHyZ9BpY=
+
+Name: fuck_the_regulations_v320/ds.class
+SHA-256-Digest: e3PrCo1gN+m2yrzTWVbzo2rkqAeHlo3GHgOyPWHE8gk=
+
+Name: fuck_the_regulations_v320/eT.class
+SHA-256-Digest: L49dN1BUgnl2EsI/AH1nFI+TzSl+T7O+R0xd7du98SA=
+
+Name: fuck_the_regulations_v320/f5.class
+SHA-256-Digest: HxsCbdOjUN4eyf0ZCxkqOMQ0ek4Ztc4Su0szvks9g6c=
+
+Name: fuck_the_regulations_v320/h.class
+SHA-256-Digest: fgi+uCAgTJ1UyMrXBW5c25TGNdOSAmL2spLVE51zvQY=
+
+Name: fuck_the_regulations_v320/bb.class
+SHA-256-Digest: 1kRsksR13j8+6LOFlpkK/DENNB7/lbJL1m6al37ui2U=
+
+Name: fuck_the_regulations_v320/cC.class
+SHA-256-Digest: B5WNvr7EC1m74dVR/mC+ltQGQbGJOEas1wEXSLqngvU=
+
+Name: fuck_the_regulations_v320/W.class
+SHA-256-Digest: fY2PDs8KLUxa9I+hzEIbCb6DWWUVNKPajobk6w4f5tw=
+
+Name: fuck_the_regulations_v320/a2.class
+SHA-256-Digest: TQT3i365RZOFRntS8FryWL61HxjsMvf83mZTMrDF25c=
+
+Name: fuck_the_regulations_v320/fh.class
+SHA-256-Digest: CoFtD/jUApFFD+VbPahXMu/oucYMdpcAqWv0BYYEliE=
+
+Name: fuck_the_regulations_v320/fb.class
+SHA-256-Digest: 81kryR3G6+sP1stHAaId3kRAdpdfkeyB/PRKZJEXo7I=
+
+Name: fuck_the_regulations_v320/ae.class
+SHA-256-Digest: B0rstO9Fnpi8vg8oWJtLz/I2UaGQ46TeyIXCbKO2nPg=
+
+Name: fuck_the_regulations_v320/bF.class
+SHA-256-Digest: Y6Lzm+LVmvDSmnmbONxHojMMAC2/fLMsHgSw4NTXqy0=
+
+Name: fuck_the_regulations_v320/dm.class
+SHA-256-Digest: 9k3vfio94BjCDTbaimzal1A/M2VlZ34vy2w68JY7ghM=
+
+Name: fuck_the_regulations_v320/eN.class
+SHA-256-Digest: JDq4KxoMja9nU9nCBhkMFox+po0tr9Q2+ADVQs9tm7E=
+
+Name: fuck_the_regulations_v320/fm.class
+SHA-256-Digest: ABRZd/czGJNAq9XHjObb/3MhyG4NE1DJSjVUN5I5yTo=
+
+Name: fuck_the_regulations_v320/aN.class
+SHA-256-Digest: KNwjrGa+7/jOKW8dLKaSzpJXSFrIzoa517XlE/sGD50=
+
+Name: fuck_the_regulations_v320/Q.class
+SHA-256-Digest: OSH/hQCFLa050MKtMDs+S5P5lGlMXM/OV5lOpSj/OGE=
+
+Name: fuck_the_regulations_v320/ek.class
+SHA-256-Digest: MSMM7res9aKfX6sgw4vk/o1zMOP1kYeV7D2Bubg/hW4=
+
+Name: fuck_the_regulations_v320/fL.class
+SHA-256-Digest: Ejjv10LdIrnNCU0T/7xCvy34m888LRZWA/3GZrF6peE=
+
+Name: fuck_the_regulations_v320/by.class
+SHA-256-Digest: QvAvIGkUpsn4BAeDxH8eAEJ5f7GLqo3kv/m6+PZXNOg=
+
+Name: fuck_the_regulations_v320/cZ.class
+SHA-256-Digest: XrciFuzGZCAgBk6QPuyZOty1r47ETl2eWKX8NTjOL1k=
+
+Name: fuck_the_regulations_v320/ak.class
+SHA-256-Digest: l6JHuAj7y0V5R+Am5gH9BJdfZnKpAzIpVEQwaEauzQY=
+
+Name: fuck_the_regulations_v320/bL.class
+SHA-256-Digest: tY/G9zN02sq2piw2ckq24gDxhwoXtk43R7JVHB/deKY=
+
+Name: fuck_the_regulations_v320/n.class
+SHA-256-Digest: P1eKh4zc4jE9ncOytTAi162GQDyFu2rIaW7/h6P0FDE=
+
+Name: fuck_the_regulations_v320/dA.class
+SHA-256-Digest: rTBb1+XncthsdJ/alF8lpXosPWpJHBG3eILGvb3BjpU=
+
+Name: fuck_the_regulations_v320/eq.class
+SHA-256-Digest: bWUXb/D3JlT5KjsgR78Xptfe2XK1PT2oKFp3WmoLRE8=
+
+Name: fuck_the_regulations_v320/fR.class
+SHA-256-Digest: pwinoUffWD0nJ5b8Eu+DBKuz2KKu1W9FJM8K9O0KaVc=
+
+Name: fuck_the_regulations_v320/aH.class
+SHA-256-Digest: tox2wLfMAahU0oZF2nOuKJJDBNrwjS2+tk3yAqQF0O4=
+
+Name: fuck_the_regulations_v320/fc.class
+SHA-256-Digest: jNMvTRlqD4KrZW/bMki2XOLOQkF6qbx2bMybjeHnMnY=
+
+Name: fuck_the_regulations_v320/ej.class
+SHA-256-Digest: F0Ra4LqR+xuEsERyZBowjaCUSDN4orWK+eZqjA7+U9E=
+
+Name: jyt/jvq/xt.class
+SHA-256-Digest: zBdL56MUfkDVGtD3wKoH9J/9gebjoEZ/dFvISt4uUyo=
+
+Name: fuck_the_regulations_v320/aj.class
+SHA-256-Digest: xw3JiURuK6bU4RtnXTn0W86JyrLV9wXo0Fr74ou4Zjc=
+
+Name: fuck_the_regulations_v320/bK.class
+SHA-256-Digest: 1eHLUOJAgOxflNBYjbyknO9Je9v3fjKBy19xcAdt1vk=
+
+Name: fuck_the_regulations_v320/V.class
+SHA-256-Digest: /TjpTH6/+olsiLOSGkWzDRH25P544WJ993Uh7kLwQMk=
+
+Name: fuck_the_regulations_v320/aI.class
+SHA-256-Digest: 7ST4SuDXY7UN8cs4Vc9GsNcS+/26xpRpz8dXI2jia1o=
+
+Name: res/ca.key
+SHA-256-Digest: CwQyxcTyvOPyYw7HlWy9IRwaOw9NK41OcSRUKxQ1CWw=
+
+Name: fuck_the_regulations_v320/i.class
+SHA-256-Digest: 4rikFPCQnwE/XXoMwpqSpt/m4pagI7UZaqcSDUvoiiY=
+
+Name: fuck_the_regulations_v320/c_.class
+SHA-256-Digest: 9uOouEzqY4djoh1EXMKn/pFhuqp3JQgHEkpV0yBiZjA=
+
+Name: fuck_the_regulations_v320/dt.class
+SHA-256-Digest: unowyiZpX5igkyVK0hBiSM3iaQOtYQJH2o5itHXAW8c=
+
+Name: fuck_the_regulations_v320/eU.class
+SHA-256-Digest: j6zkvQpX2Uq6AnF0EarHVyTDUSQUc+t00udzPo7GDSo=
+
+Name: fuck_the_regulations_v320/f6.class
+SHA-256-Digest: +4gmY8Ca84+KAg/GOol0h6Dtkv1jVpG5ZWM86iFm/VQ=
+
+Name: fuck_the_regulations_v320/ep.class
+SHA-256-Digest: YHXhN2BgoXMGkkptl4EBxlDWnrBAfMYC0eZKJLUuz+w=
+
+Name: fuck_the_regulations_v320/fQ.class
+SHA-256-Digest: SWcpNy7Z1eyTvPr2+rR9DQqT0msSGyxcIGcDmCPszyI=
+
+Name: fuck_the_regulations_v320/bx.class
+SHA-256-Digest: W/GngpyCenoaXy1VLwRqARTJLarCjY48mxEJvpempVk=
+
+Name: fuck_the_regulations_v320/cY.class
+SHA-256-Digest: WMPXATPnJBQU9se/oNo4OlkvF8t1nhuElPc8ZIfIs8I=
+
+Name: fuck_the_regulations_v320/aO.class
+SHA-256-Digest: JX2hMSsppCzzg95PDhCId2e34CBvw+kPf2Yml3pKr2c=
+
+Name: fuck_the_regulations_v320/b0.class
+SHA-256-Digest: Ppk4y26Qdb7S8RV6zkPp/nyPDJE4sixgDiPp2jBlu4Y=
+
+Name: fuck_the_regulations_v320/dn.class
+SHA-256-Digest: 3X0e5nlkB12LEqUsx6/UKVW8afnJi6mYyOykqJRhRgM=
+
+Name: fuck_the_regulations_v320/eO.class
+SHA-256-Digest: axlI9PwjGpyb/aSBL2p9f119r4K5ys80dxH5tcxMUWU=
+
+Name: fuck_the_regulations_v320/f0.class
+SHA-256-Digest: oyOlWTBqwEOUnUX4pDlIZ1W5LEpDZAAToneJBFjq/AA=
+
+Name: fuck_the_regulations_v320/P.class
+SHA-256-Digest: CnIuSlioXYLH+diqaNJk76QshQsmjutkXeKNMXBXwT4=
+
+Name: fuck_the_regulations_v320/el.class
+SHA-256-Digest: SKsZFMX68UM7T7chROXI3peBz7t+UCCGWjd1/Dv4nGg=
+
+Name: fuck_the_regulations_v320/fM.class
+SHA-256-Digest: FahMiwiTVC81WTj93rHQ4tSiZQjEOce1xAOpmHhZgJE=
+
+Name: fuck_the_regulations_v320/aJ.class
+SHA-256-Digest: aRFFN0io1vrq4vrWiHkatCToxWyckKB6ShkuTuvscz4=
+
+Name: fuck_the_regulations_v320/o.class
+SHA-256-Digest: TjBWIF9Jk8OsjPfcWngNPX0oiQhX4WOxqt+jaLkD+lU=
+
+Name: fuck_the_regulations_v320/bz.class
+SHA-256-Digest: Q9XMU8OXoPipwccW+dVvhfhERmj5An9VRO1Oo0DiBoc=
+
+Name: fuck_the_regulations_v320/aM.class
+SHA-256-Digest: ETDAWNkTYYzVC+oP4dYgX+Azyzj6ffu/WaFnjnB9ido=
+
+Name: fuck_the_regulations_v320/S.class
+SHA-256-Digest: AoCU62eFOwMohv+WgF2npBMIqdLuEvl8CHENTXm7h7Q=
+
+Name: fuck_the_regulations_v320/eP.class
+SHA-256-Digest: fmNu+o4Ti0IqGkTNfZHGK9wXzybuG+/d/ErqeUtMf9k=
+
+Name: fuck_the_regulations_v320/f1.class
+SHA-256-Digest: N3Iz/q5H31rkXnMaQcEBMGFWBSxri/Oi8NliucpzXks=
+
+Name: fuck_the_regulations_v320/eo.class
+SHA-256-Digest: TWUoqo/CDfqpHP2Ob1IQXglvBFekeDFwsunbIuhsVDo=
+
+Name: fuck_the_regulations_v320/fP.class
+SHA-256-Digest: 3Fh7msr3Pbe98oLLVWlxeUhWOhKg0SE6GcrxUYl1qmA=
+
+Name: fuck_the_regulations_v320/cw.class
+SHA-256-Digest: XAEQLHufNC+hNuRLXuMznx96WM5VH1uGRzM9MujQzRE=
+
+Name: fuck_the_regulations_v320/dX.class
+SHA-256-Digest: zIM7E/rgwu7hb6qWHqyuJakekaOtUWr2d1SimxIThhg=
+
+Name: fuck_the_regulations_v320/e9.class
+SHA-256-Digest: OP3EfUdM05qmTjwgaSP5KuTetBM67ufQMARkOgnI4uQ=
+
+Name: fuck_the_regulations_v320/ct.class
+SHA-256-Digest: 3BJjQEERTZbCaXsRSI8lPwJ/5WEjVSqUkhdYkTFI2gQ=
+
+Name: fuck_the_regulations_v320/dU.class
+SHA-256-Digest: /g6csfxLgyj16uhTqFDWi6ljAhXgdKIkvlu81pAUnsY=
+
+Name: fuck_the_regulations_v320/e6.class
+SHA-256-Digest: Wq3EH0eWTeYwtYAk7Kg3JVK924JxsTpRnOWY6nhjInU=
+
+Name: fuck_the_regulations_v320/ff.class
+SHA-256-Digest: gqLiV/FeuLTXjc7vvpv+jXstu5JzMwC8fcusp9yr5ao=
+
+Name: fuck_the_regulations_v320/bc.class
+SHA-256-Digest: w9bFgfq2CXx7FZSiNIiLbcrEE3vum3Bq/Cwu++7RaI8=
+
+Name: fuck_the_regulations_v320/cD.class
+SHA-256-Digest: WVs6cKnBf9M7kisH9xAhDJcb4W/x95UmvodGjM6HGBM=
+
+Name: fuck_the_regulations_v320/fi.class
+SHA-256-Digest: E92hNVjPVR+kSeoNnf8YWPFfwpojXdorUEgqI97UjXU=
+
+Name: fuck_the_regulations_v320/a3.class
+SHA-256-Digest: iUs5znEz48UMISim1jpFkqf+3CpjF7El+dexq3KW/tE=
+
+Name: fuck_the_regulations_v320/ad.class
+SHA-256-Digest: CHUnLzLC4pT4E2VOWCnh9Zh/MaKLM3hgJh+pWj20TO4=
+
+Name: fuck_the_regulations_v320/bE.class
+SHA-256-Digest: HXtlnMn+xZ0Nbkxee9/PlnIJcXqxfLJSVQGxZiJR1M4=
+
+Name: fuck_the_regulations_v320/ga.class
+SHA-256-Digest: 4J8EBoGXxhDuICxD1YDjva5SaZSpt7mSaNHH9kf9KYU=
+
+Name: fuck_the_regulations_v320/a0.class
+SHA-256-Digest: aixZwuIk68/vWzWaOTQt32nViyqNQ4+kkmofHWKti+M=
+
+Name: jyt/jvq/uc.class
+SHA-256-Digest: 5uz6dUzdz4EKSgDoHdbngXPbq0GROsn4SaStWc4gwSU=
+
+Name: fuck_the_regulations_v320/m.class
+SHA-256-Digest: JgzEE+6D2PK/IXorrp//sSqk67qCdJ41mShBPP9EAn4=
+
+Name: fuck_the_regulations_v320/dq.class
+SHA-256-Digest: FsDvRW5LzvoxAUKiLWrlRw5WOLTK6RMg+m+22ETxJyg=
+
+Name: fuck_the_regulations_v320/eR.class
+SHA-256-Digest: JoOVbxbGdEZncquwwqS8HNfOd+jUDwD87emEKIlntjo=
+
+Name: fuck_the_regulations_v320/f3.class
+SHA-256-Digest: pzYWvtcXO2yNz44fifStkIM6ZKX73Qwmhdynjf2orBI=
+
+Name: fuck_the_regulations_v320/fg.class
+SHA-256-Digest: dtFqM7xpJz7y65H94VNuOcezNKCbtjKFaEErfB2xxeM=
+
+Name: fuck_the_regulations_v320/cu.class
+SHA-256-Digest: qArX5FJJ+zw3ljjYB2M0c7eZuuUMiL2hDumqKeezdMA=
+
+Name: fuck_the_regulations_v320/dV.class
+SHA-256-Digest: LhP8FYLK0auJ+9NvR+k9u42e4oUbERuS27GhYKMI7iw=
+
+Name: fuck_the_regulations_v320/e7.class
+SHA-256-Digest: YHuKZiIdgJlI8VnGFd0N/swcmEvyZbHX3j6pX+8znmE=
+
+Name: fuck_the_regulations_v320/ag.class
+SHA-256-Digest: UP9Hi3jKCE9Qw7FE+noUY+VcNo8PBv+EJkJUej9ZYpM=
+
+Name: fuck_the_regulations_v320/bH.class
+SHA-256-Digest: PMopPxFBk/OEHdYnz+BarpzmO3ZIwutNV76p+gC1r4k=
+
+Name: fuck_the_regulations_v320/gc.class
+SHA-256-Digest: lr3EQNYdSLSLeiWZcmI0yp/Gz4493tl3sJAFOAInQ/Y=
+
+Name: fuck_the_regulations_v320/aK.class
+SHA-256-Digest: ZOp3LtWajtFrvybKaPrACFiC1F4i+29MU+7DIX++fv4=
+
+Name: fuck_the_regulations_v320/cA.class
+SHA-256-Digest: qJzUS+A7Jq0g05xGwa60uMUnIxOuqiDTo3wDlOJLk94=
+
+Name: fuck_the_regulations_v320/dr.class
+SHA-256-Digest: xVLUir4N0UL0X3lOlH0jNynofvlzrr9Pk20QHqVYaho=
+
+Name: fuck_the_regulations_v320/eS.class
+SHA-256-Digest: 3LycxSndNicUV7nbVnIdKruzxQ3BZbxQ7k1zuKWSnlA=
+
+Name: fuck_the_regulations_v320/f4.class
+SHA-256-Digest: s5CVIzzHFg7+t9VGROFqrB+zfD4QqzSDzzgGqut7HFY=
+
+Name: fuck_the_regulations_v320/ba.class
+SHA-256-Digest: 7jfJLsdinTdFgMzE/ZAcrRsWSnLcIlqbcSTaIQ8diJk=
+
+Name: fuck_the_regulations_v320/cB.class
+SHA-256-Digest: g1/KrJr+nv8DSD1qem6y/qVs+8n7bf+fvMfkVgr3bdw=
+
+Name: fuck_the_regulations_v320/em.class
+SHA-256-Digest: RjC/vJAq1lRw0e3AxBOX5wwnTxaFMZPgJZs7++LIldI=
+
+Name: fuck_the_regulations_v320/fN.class
+SHA-256-Digest: XenRoqAUDBH30YgGtY9lbDs8iCNUAJjnzIQGRRnsHh0=
+
+Name: fuck_the_regulations_v320/a1.class
+SHA-256-Digest: o5LmGJQkFbEzGLSUjaqzfhhz3p6TMkKBaa2v7s2mBIc=
+
+Name: fuck_the_regulations_v320/l.class
+SHA-256-Digest: CO4L9hcc9vSIAwSfpYHj7NG9Cy8m7IxzCB/824oTECw=
+
+Name: res/plugin.key
+SHA-256-Digest: ushs0xE3cZSxPhmtmYMtDWIbrOUFiI5nlqSDKUoLqLM=
+
+Name: fuck_the_regulations_v320/aL.class
+SHA-256-Digest: /Gnf5G3z8PaMMFKf4tz3uyfVrnlvhDzExMHDLrpcQtI=
+
+Name: fuck_the_regulations_v320/cv.class
+SHA-256-Digest: qjhGC2YtnQqlX4E0VvKMwl1rslRur+c0nIC/9JCXayg=
+
+Name: fuck_the_regulations_v320/dW.class
+SHA-256-Digest: vwe//UWuaQfmkNVTMFzXe5Mn4ziyXKeOOHgrX+GhLE4=
+
+Name: fuck_the_regulations_v320/e8.class
+SHA-256-Digest: IXEjL6815zLjxom/GDRbdQ7IjFn0oYGY1ouS+/NtfEk=
+
+Name: fuck_the_regulations_v320/R.class
+SHA-256-Digest: dGIpRWK5ho8WcX8YqZ0HtOi978CkTLHc+lKUuhl1RzM=
+
+Name: fuck_the_regulations_v320/af.class
+SHA-256-Digest: Zc+2kMDOnmExwyyMvaTnVsSm82mkFaFHl5VMR8b1pJ8=
+
+Name: fuck_the_regulations_v320/bG.class
+SHA-256-Digest: GJgnFpXOcSeaC11YNQXuKeR5LVF7ZSDQFrGgoQ7h2/Q=
+
